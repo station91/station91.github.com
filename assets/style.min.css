@@ -1905,7 +1905,7 @@ a {
 .header .menu {
   width: 24px;
   height: 24px;
-  background: url(/web/20180116130544im_/https://yourprimer.com/assets/img/menu@2x.png) no-repeat top center;
+  background: url(./menu@2x.png) no-repeat top center;
   background-size: 24px 48px;
   display: block;
   position: absolute;
