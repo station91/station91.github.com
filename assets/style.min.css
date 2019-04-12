@@ -1703,7 +1703,7 @@ h6 {
   }
 
   .home-page .global-footer {
-    display: block;
+    display: none;
   }
 
   .home-page .global-footer .pilot-text {
